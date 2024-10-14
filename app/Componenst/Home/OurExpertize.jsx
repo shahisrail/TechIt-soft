@@ -9,7 +9,7 @@ import js from "@/public/js.png";
 import html from "@/public/html.svg";
 import bootstrap from "@/public/bootstrap.svg";
 import ts from "@/public/typescript.svg";
-import node from "@/public/nodejs.svg";
+// import node from "@/public/nodejs.svg";
 import ex from "@/public/express.png";
 import mon from "@/public/mon.png";
 import laravel from "@/public/laravel.png";
@@ -56,7 +56,7 @@ const OurExpertize = () => {
           </TabList>
 
           <TabPanel>
-            <div className="grid lg:grid-cols-6 md:grid-cols-4 p-8 grid-cols-2 mr-[-15px] ml-[-15px] lg:gap-8 gap-3 p-3">
+            <div className="grid lg:grid-cols-6 md:grid-cols-4 p-8 grid-cols-2 mr-[-15px] ml-[-15px] lg:gap-8 gap-3 ">
               <div className="text-center py-5 bg-[#f7f7f7] rounded-[14px] mt-7">
                 <div className="">
                   <Image
@@ -145,8 +145,8 @@ const OurExpertize = () => {
                 <div className="">
                   <Image
                     className="pb-5 h-[100px] w-[100px] mx-auto"
-                    src={node}
-                    alt="Html Image loading"
+                    src={ex}
+                    alt="Node Image loading"
                   />
                   <p className="text-sm leading-6">Node js </p>
                 </div>
