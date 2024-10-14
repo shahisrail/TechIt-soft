@@ -9,7 +9,7 @@ import js from "@/public/js.png";
 import html from "@/public/html.svg";
 import bootstrap from "@/public/bootstrap.svg";
 import ts from "@/public/typescript.svg";
-import node from "@/public/nodejs.svg";
+import node from "@/public/node.svg";
 import ex from "@/public/express.png";
 import mon from "@/public/mon.png";
 import laravel from "@/public/laravel.png";
